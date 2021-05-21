@@ -10,4 +10,4 @@ Where else but Quora can a physicist help a chef with a math problem and get coo
 - 1.data.py contains data exploreation the code in #%% code blocks
 - 2.featuriztion.py contains the code for new feature
 - 3.eda contains code for exploratory data analysis (work-in-progress)
-- 4.model (yet to push)
+
